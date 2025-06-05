@@ -82,5 +82,5 @@ footer {
   padding-top: 0.5rem;
   display: -webkit-flex;
   flex-direction: row;
-  content: center;
+  justify-content: center;
 }

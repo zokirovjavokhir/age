@@ -52,7 +52,7 @@
     };
     
     App.fn.renderAge = function(){
-      var now       = new Date
+      var now       = new Date();
       var duration  = now - this.dob;
       var years     = duration / 31556900000;
     
